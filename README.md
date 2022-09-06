@@ -1,4 +1,4 @@
-# JupyterLite Demo
+# 【content】文件夹下的【Python基础】文件夹
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
